@@ -4,11 +4,7 @@ Open Inspect Element (Press CTRL+SHIFT+I together)
 Go to "Console"
 Copy+Paste it into the Console.
 Done! You've Successfully Enabled the Extensions!
+(Friendly Folks!, Please go to Chrome://extensions/, 
+enable Dev Mode, and grab the ID for each extension you want to enable, one at a time.)
 
-chrome.management.setEnabled('adkcpkpghahmbopkjchobieckeoaoeem', true)
-chrome.management.setEnabled('icmgjiknkpcfkhgajgmpkkehdjmidlgl', true)
-chrome.management.setEnabled('kkbmdgjggcdajckdlbngdjonpchpaiea', true)
-chrome.management.setEnabled('hpkdokakjglppeekfeekmebfahadnflp', true)
-chrome.management.setEnabled('cgbbbjmgdpnifijconhamggjehlamcif', true)
-chrome.management.setEnabled('nopfnnpnopgmcnkjchnlpomggcdjfepo', true)
-chrome.management.setEnabled('ecnphlgnajanjnkcmbpancdjoidceilk', true)
+chrome.management.setEnabled('Extension ID Here', true)
