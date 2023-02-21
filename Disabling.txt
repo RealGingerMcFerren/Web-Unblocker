@@ -5,11 +5,7 @@ Open Inspect Element (Press CTRL+SHIFT+I together)
 Go to "Console"
 Copy+Paste it into the Console.
 Done! You've Successfully Disabled the Extensions! 
+(Friendly Folks!, Please go to Chrome://extensions/, 
+enable Dev Mode, and grab the ID for each extension you want to disable, one at a time.)
 
-chrome.management.setEnabled('adkcpkpghahmbopkjchobieckeoaoeem', false)
-chrome.management.setEnabled('icmgjiknkpcfkhgajgmpkkehdjmidlgl', false)
-chrome.management.setEnabled('kkbmdgjggcdajckdlbngdjonpchpaiea', false)
-chrome.management.setEnabled('hpkdokakjglppeekfeekmebfahadnflp', false)
-chrome.management.setEnabled('cgbbbjmgdpnifijconhamggjehlamcif', false)
-chrome.management.setEnabled('nopfnnpnopgmcnkjchnlpomggcdjfepo', false)
-chrome.management.setEnabled('ecnphlgnajanjnkcmbpancdjoidceilk', false)
+chrome.management.setEnabled('Extension ID Here', false)
