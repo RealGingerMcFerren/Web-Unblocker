@@ -1,0 +1,21 @@
+To stay logged out of YouTube,
+Go to "chrome://settings/cookies"
+Go to "Sites that can never use cookies."
+Add: (Copy+Paste Each Line)
+[*.]youtube.com
+Youtube.com
+
+To Login with your Student account (To watch a video.):
+Go to the site,
+Click the eye with a diagonal line,
+Click "Site not working?"
+Click "Allow Cookies"
+Let it reload,
+Click "Sign In"
+Done!
+
+To relogout:
+Click the eye,
+Click "Block cookies"
+Let it reload,
+Done!
