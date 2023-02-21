@@ -1,4 +1,4 @@
-THIS ONLY WORKS ON ECBOE MANAGED DEVICES. IF YOUR DEVICE IS NOT MANAGED BY ECBOE, THIS WILL NOT WORK.
+Please read WARNING.TXT before attempting.
 To do this, go to "chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/manifest.json"
 Open Inspect Element (Press CTRL+SHIFT+I together)
 Go to "Console"
