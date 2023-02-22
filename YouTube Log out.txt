@@ -1,9 +1,21 @@
-To stay logged out of YouTube,
+This stops Google from associating your data with your account.
+This is optional, but your data (Like youtube history) WILL be associated with you.
+
+To stay logged out of all Google Services,
 Go to "chrome://settings/cookies"
 Go to "Sites that can never use cookies."
 Add: (Copy+Paste Each Line)
 [*.]youtube.com
-Youtube.com
+[*.]google.com
+
+But you'll need to keep Google's login system intact.
+Do the same as above,
+Go to "Sites that can always use cookies."
+Add: (Copy+Paste Each Line)
+accounts.google.com
+docs.google.com
+drive.google.com
+mail.google.com
 
 To Login with your Student account (To watch a video.):
 Go to the site,
